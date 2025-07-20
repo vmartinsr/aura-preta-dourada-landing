@@ -1,0 +1,156 @@
+{
+  "version": "0.4",
+  "title": "Sobrancelhas Perfeitas Landing Page",
+  "type": "page",
+  "content": [
+    {
+      "id": "hero",
+      "elType": "section",
+      "elements": [
+        {
+          "id": "hero_column",
+          "elType": "column",
+          "elements": [
+            {
+              "id": "hero_heading",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Sobrancelhas <span class=\"text-gold\">Perfeitas</span>"
+              }
+            },
+            {
+              "id": "hero_subtitle",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "MÉTODO ÚNICO E SIMPLES QUE EU USO PRA FAZER SOBRANCELHAS IMPECÁVEIS E COM ISSO TER A <strong>AGENDA LOTADA</strong>"
+              }
+            },
+            {
+              "id": "hero_description",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "Você irá aprender as técnicas mais Inovadoras e Eficazes para o Design de Sobrancelhas, descobrir como aplicá-las de maneira Simples e Prática em seu trabalho. Meu método exclusivo foi desenvolvido com anos de experiência."
+              }
+            }
+          ]
+        }
+      ],
+      "settings": {
+        "background_image": {
+          "url": "hero-woman.jpg"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "elType": "section",
+      "elements": [
+        {
+          "id": "about_column",
+          "elType": "column",
+          "elements": [
+            {
+              "id": "about_heading",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "O CURSO <span class=\"text-gold\">SOBRANCELHAS PERFEITAS</span><br/>NÃO É SIMPLESMENTE UM CURSO QUALQUER!"
+              }
+            },
+            {
+              "id": "about_text1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "Você quer mudar de vida e se tornar uma especialista em design de sobrancelhas?"
+              }
+            },
+            {
+              "id": "about_text2",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "Todo o Método foi criado pensando em você, que deseja aprender TUDO o que precisa para se tornar uma verdadeira profissional no Design de Sobrancelhas."
+              }
+            },
+            {
+              "id": "about_text3",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "Eu, pessoalmente, vou estar ao seu lado em todas as etapas, guiando você para que se torne uma especialista. Não importa o nível de experiência que você tenha, se irá começar hoje ou já atua na área, vou pegar em suas mãos e caminhar junto com você nessa jornada."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "elType": "section",
+      "elements": [
+        {
+          "id": "cta_column",
+          "elType": "column",
+          "elements": [
+            {
+              "id": "cta_heading",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Transforme sua <span class=\"text-gold\">Carreira</span><br/>Hoje Mesmo!"
+              }
+            },
+            {
+              "id": "cta_text",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "Não perca esta oportunidade única de aprender o método que já transformou a vida de mais de 78 mil mulheres em todo o Brasil."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "footer",
+      "elType": "section",
+      "elements": [
+        {
+          "id": "footer_column",
+          "elType": "column",
+          "elements": [
+            {
+              "id": "footer_heading",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Sobrancelhas <span class=\"text-gold\">Perfeitas</span>"
+              }
+            },
+            {
+              "id": "footer_text",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "Transformando vidas através da beleza"
+              }
+            },
+            {
+              "id": "footer_legal",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "text": "© 2024 Sobrancelhas Perfeitas - Todos os direitos reservados"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
